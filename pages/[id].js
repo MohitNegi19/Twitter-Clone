@@ -47,7 +47,7 @@ import {
       [db, id]
     );
   
-    if (!session) return <Login providers={providers} />;
+    
   
     return (
       <div>
