@@ -53,7 +53,7 @@ import {
       <div>
         <Head>
           <title>
-            {post?.username} on Twitter: "{post?.text}"
+            Post Page
           </title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
